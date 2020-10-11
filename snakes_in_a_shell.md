@@ -13,6 +13,17 @@ date: 2020-10-11
 
 ---
 
+Python 3 - Installing Scripts
+
+Use `pip`:
+
+```bash
+$ pip install lookatme
+...
+$
+```
+---
+
 # Python 3 - Dependencies
 
 * Python has "batteries included".
