@@ -5,6 +5,13 @@ author: Carl Waldbieser
 date: 2020-10-11
 ---
 
+# Introduction
+
+Even if you are not a Python developer, installing and using Python command
+line tools is not rocket science.
+
+---
+
 # Python 2.x
 
 * Please don't.
