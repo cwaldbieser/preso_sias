@@ -20,7 +20,7 @@ line tools is not rocket science.
 
 ---
 
-Python 3 - Installing Scripts
+# Python 3 - Installing Scripts
 
 Use `pip`:
 
